@@ -18,16 +18,12 @@
             0% { opacity: 0; }
             100% { opacity: 1; }
         }
-    </style>
-</head>
-<body>
-    <!-- Logo lub animacja -->
-    <img src="URL_DO_TWOJEGO_LOGO.gif" id="logo" alt="Twoje Logo">
 
-    <script>
+
+  <script>
         // Automatyczne przekierowanie po 3 sekundach
         setTimeout(function() {
-            window.location.href = "https://www.facebook.com/TwojaStrona";
+            window.location.href = "https://www.facebook.com/share/iiDKv5GaXNko4ptS/";
         }, 3000); // 3000 ms = 3 sekundy
     </script>
 </body>
