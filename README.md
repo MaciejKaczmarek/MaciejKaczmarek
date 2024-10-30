@@ -24,7 +24,7 @@
         // Automatyczne przekierowanie po 3 sekundach
         setTimeout(function() {
             window.location.href = "https://www.facebook.com/share/iiDKv5GaXNko4ptS/";
-        }, 3000); // 3000 ms = 3 sekundy
+        }, 5000); // 5000 ms = 5 sekundy
     </script>
 </body>
 </html>
